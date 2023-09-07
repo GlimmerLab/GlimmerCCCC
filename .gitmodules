@@ -1,0 +1,6 @@
+[submodule "third_party/OpenBLAS"]
+	path = third_party/OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS
+[submodule "pycccc/pybind11"]
+	path = pycccc/pybind11
+	url = https://github.com/pybind/pybind11.git
