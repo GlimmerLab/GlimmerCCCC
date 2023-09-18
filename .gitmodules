@@ -4,3 +4,6 @@
 [submodule "pycccc/pybind11"]
 	path = pycccc/pybind11
 	url = https://github.com/pybind/pybind11.git
+[submodule "mlcc"]
+	path = mlcc
+	url = https://github.com/scarsty/mlcc.git
